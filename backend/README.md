@@ -32,3 +32,23 @@ npm run dev
 - `/api/users/*` - 用户数据接口
 - `/api/analytics/*` - 分析数据接口
 - `/health` - 健康检查接口
+
+## 数据管理
+
+本项目提供了数据导入导出脚本，方便在不同环境间迁移数据。
+
+### 导出数据
+
+将数据库中的所有数据导出为 JSON 文件（保存在 `backend/data/` 目录下）：
+
+```bash
+npm run data:export
+```
+
+### 导入数据
+
+将 `backend/data/` 目录下的 JSON 数据导入到数据库（**注意：会清空现有数据**）：
+
+```bash
+npm run data:import
+```

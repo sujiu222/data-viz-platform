@@ -1,0 +1,57 @@
+[
+  {
+    "_id": "68fe2d183139cac7e78c2cc8",
+    "name": "iPhone 15 Pro",
+    "sales": 2850,
+    "revenue": 28500000,
+    "category": "电子产品",
+    "rank": 1,
+    "__v": 0,
+    "createdAt": "2025-10-26T14:15:52.580Z",
+    "updatedAt": "2025-10-26T14:15:52.580Z"
+  },
+  {
+    "_id": "68fe2d183139cac7e78c2cc9",
+    "name": "MacBook Air M3",
+    "sales": 1920,
+    "revenue": 19200000,
+    "category": "电子产品",
+    "rank": 2,
+    "__v": 0,
+    "createdAt": "2025-10-26T14:15:52.581Z",
+    "updatedAt": "2025-10-26T14:15:52.581Z"
+  },
+  {
+    "_id": "68fe2d183139cac7e78c2cca",
+    "name": "AirPods Pro",
+    "sales": 3650,
+    "revenue": 7300000,
+    "category": "电子产品",
+    "rank": 3,
+    "__v": 0,
+    "createdAt": "2025-10-26T14:15:52.581Z",
+    "updatedAt": "2025-10-26T14:15:52.581Z"
+  },
+  {
+    "_id": "68fe2d183139cac7e78c2ccb",
+    "name": "iPad Pro",
+    "sales": 1580,
+    "revenue": 12640000,
+    "category": "电子产品",
+    "rank": 4,
+    "__v": 0,
+    "createdAt": "2025-10-26T14:15:52.581Z",
+    "updatedAt": "2025-10-26T14:15:52.581Z"
+  },
+  {
+    "_id": "68fe2d183139cac7e78c2ccc",
+    "name": "Apple Watch",
+    "sales": 2240,
+    "revenue": 8960000,
+    "category": "电子产品",
+    "rank": 5,
+    "__v": 0,
+    "createdAt": "2025-10-26T14:15:52.581Z",
+    "updatedAt": "2025-10-26T14:15:52.581Z"
+  }
+]

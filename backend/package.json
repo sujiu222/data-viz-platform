@@ -8,6 +8,8 @@
     "dev": "nodemon server.js",
     "seed": "node seed.js",
     "seed:destroy": "node seed.js -d",
+    "data:export": "node exportData.js",
+    "data:import": "node importData.js",
     "crawl:jd": "node crawlers/jdHotList.js"
   },
   "keywords": [

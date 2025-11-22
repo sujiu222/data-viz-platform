@@ -1,0 +1,47 @@
+[
+  {
+    "_id": "68fe2d183139cac7e78c2ca9",
+    "range": "18-25",
+    "count": 32500,
+    "percentage": 25.9,
+    "__v": 0,
+    "createdAt": "2025-10-26T14:15:52.572Z",
+    "updatedAt": "2025-10-26T14:15:52.572Z"
+  },
+  {
+    "_id": "68fe2d183139cac7e78c2caa",
+    "range": "26-35",
+    "count": 48600,
+    "percentage": 38.7,
+    "__v": 0,
+    "createdAt": "2025-10-26T14:15:52.572Z",
+    "updatedAt": "2025-10-26T14:15:52.572Z"
+  },
+  {
+    "_id": "68fe2d183139cac7e78c2cab",
+    "range": "36-45",
+    "count": 28400,
+    "percentage": 22.6,
+    "__v": 0,
+    "createdAt": "2025-10-26T14:15:52.572Z",
+    "updatedAt": "2025-10-26T14:15:52.572Z"
+  },
+  {
+    "_id": "68fe2d183139cac7e78c2cac",
+    "range": "46-55",
+    "count": 12100,
+    "percentage": 9.6,
+    "__v": 0,
+    "createdAt": "2025-10-26T14:15:52.572Z",
+    "updatedAt": "2025-10-26T14:15:52.572Z"
+  },
+  {
+    "_id": "68fe2d183139cac7e78c2cad",
+    "range": "55+",
+    "count": 4000,
+    "percentage": 3.2,
+    "__v": 0,
+    "createdAt": "2025-10-26T14:15:52.572Z",
+    "updatedAt": "2025-10-26T14:15:52.572Z"
+  }
+]

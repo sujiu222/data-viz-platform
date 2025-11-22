@@ -1,0 +1,102 @@
+[
+  {
+    "_id": "68fe2d183139cac7e78c2c7d",
+    "month": "1月",
+    "value": 3250,
+    "year": 2024,
+    "category": "general",
+    "__v": 0,
+    "createdAt": "2025-10-26T14:15:52.343Z",
+    "updatedAt": "2025-10-26T14:15:52.343Z"
+  },
+  {
+    "_id": "68fe2d183139cac7e78c2c7e",
+    "month": "2月",
+    "value": 4180,
+    "year": 2024,
+    "category": "general",
+    "__v": 0,
+    "createdAt": "2025-10-26T14:15:52.344Z",
+    "updatedAt": "2025-10-26T14:15:52.344Z"
+  },
+  {
+    "_id": "68fe2d183139cac7e78c2c7f",
+    "month": "3月",
+    "value": 5240,
+    "year": 2024,
+    "category": "general",
+    "__v": 0,
+    "createdAt": "2025-10-26T14:15:52.344Z",
+    "updatedAt": "2025-10-26T14:15:52.344Z"
+  },
+  {
+    "_id": "68fe2d183139cac7e78c2c80",
+    "month": "4月",
+    "value": 4820,
+    "year": 2024,
+    "category": "general",
+    "__v": 0,
+    "createdAt": "2025-10-26T14:15:52.344Z",
+    "updatedAt": "2025-10-26T14:15:52.344Z"
+  },
+  {
+    "_id": "68fe2d183139cac7e78c2c81",
+    "month": "5月",
+    "value": 6150,
+    "year": 2024,
+    "category": "general",
+    "__v": 0,
+    "createdAt": "2025-10-26T14:15:52.344Z",
+    "updatedAt": "2025-10-26T14:15:52.344Z"
+  },
+  {
+    "_id": "68fe2d183139cac7e78c2c82",
+    "month": "6月",
+    "value": 7200,
+    "year": 2024,
+    "category": "general",
+    "__v": 0,
+    "createdAt": "2025-10-26T14:15:52.344Z",
+    "updatedAt": "2025-10-26T14:15:52.344Z"
+  },
+  {
+    "_id": "68fe2d183139cac7e78c2c83",
+    "month": "7月",
+    "value": 6800,
+    "year": 2024,
+    "category": "general",
+    "__v": 0,
+    "createdAt": "2025-10-26T14:15:52.344Z",
+    "updatedAt": "2025-10-26T14:15:52.344Z"
+  },
+  {
+    "_id": "68fe2d183139cac7e78c2c84",
+    "month": "8月",
+    "value": 7500,
+    "year": 2024,
+    "category": "general",
+    "__v": 0,
+    "createdAt": "2025-10-26T14:15:52.344Z",
+    "updatedAt": "2025-10-26T14:15:52.344Z"
+  },
+  {
+    "_id": "68fe2d183139cac7e78c2c85",
+    "month": "9月",
+    "value": 8200,
+    "year": 2024,
+    "category": "general",
+    "__v": 0,
+    "createdAt": "2025-10-26T14:15:52.344Z",
+    "updatedAt": "2025-10-26T14:15:52.344Z"
+  },
+  {
+    "_id": "68fe2d183139cac7e78c2c86",
+    "month": "10月",
+    "value": 9100,
+    "year": 2024,
+    "category": "general",
+    "__v": 0,
+    "createdAt": "2025-10-26T14:15:52.344Z",
+    "updatedAt": "2025-10-26T14:15:52.344Z"
+  }
+]
